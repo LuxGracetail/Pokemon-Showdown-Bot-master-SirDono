@@ -1,0 +1,12 @@
+﻿/node_modules
+/node_modules/*
+/gulp-cache
+/dev-tools
+npm-debug.log
+config.js
+gulpfile.js
+settings.json
+
+.hg
+.bzr
+.svn
